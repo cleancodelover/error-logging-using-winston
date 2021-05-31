@@ -1,0 +1,14 @@
+2021-05-30 21:58:36 [31merror[39m: text error
+2021-05-30 21:58:36 [31merror[39m: Error: something went wrong
+    at Server.<anonymous> (----deleted----)
+    at Object.onceWrapper (events.js:421:28)
+    at Server.emit (events.js:315:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:79:21)
+2021-05-30 21:59:10 [31merror[39m: text error
+2021-05-30 21:59:10 [31merror[39m: Error: something went wrong
+    at Server.<anonymous> (----deleted----)
+    at Object.onceWrapper (events.js:421:28)
+    at Server.emit (events.js:315:20)
+    at emitListeningNT (net.js:1352:10)
+    at processTicksAndRejections (internal/process/task_queues.js:79:21)
